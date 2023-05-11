@@ -38,28 +38,35 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 
 # Protocols
 
-- Bitcoin
-    - Hierarchical deterministic (HD) accounts
-        - A new address is generated per transaction for security purposes
-        - *See [What are Hierarchical Deterministic (HD) Wallets?](https://www.ledger.com/academy/crypto/what-are-hierarchical-deterministic-hd-wallets) by Ledger 2022-10-27*
-    - Layer 2s
-        - Lightning network
-        - Bitcoin Liquid Network
-- Ethereum
-    - Tokens
-        - E.g. ERC-20, ERC-721, and etc.
-    - Staking
-        - Actions: Deposit, withdrawal, and earn interest
-        - E.g. Lido, Coinbase, Gemini, Binance US, Rocket Pool, and etc.
-    - Layer 2s
-        - Bridges
-            - E.g. Hop, Li.Fi, Connext, Across, and etc.
-        - Centralized exchange (CEX) integrations
-        - Arbitrum
-        - Optimism
-        - Polygon
-        - etc.
-    - Gasless decentralized exchange (DEX) trades, e.g. Cow Swap
+## Bitcoin
+
+- Hierarchical deterministic (HD) accounts
+    - A new address is generated per transaction for security purposes
+    - To research: Ledger, Trezor, and other wallet's strategy to accurately track HD accounts
+    - *See [What are Hierarchical Deterministic (HD) Wallets?](https://www.ledger.com/academy/crypto/what-are-hierarchical-deterministic-hd-wallets) by Ledger 2022-10-27*
+- Layer 2s
+    - Lightning network
+    - Bitcoin Liquid Network
+
+## Ethereum
+    
+- Tokens
+    - E.g. ERC-20, ERC-721, and etc.
+- Staking
+    - Actions: Deposit, withdrawal, and earn interest
+    - E.g. Lido, Coinbase, Gemini, Binance US, Rocket Pool, and etc.
+- Layer 2s
+    - Bridges
+        - E.g. Hop, Li.Fi, Connext, Across, and etc.
+    - Centralized exchange (CEX) integrations
+    - Arbitrum
+    - Optimism
+    - Polygon
+    - etc.
+- Gasless decentralized exchange (DEX) trades, e.g. Cow Swap
+
+## Other
+
 - Wrapped tokens
     - E.g. Wrapped Ethereum (wETH)
     - Transfer cost basis?
