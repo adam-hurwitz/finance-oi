@@ -43,6 +43,7 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 - Hierarchical deterministic (HD) accounts
     - A new address is generated per transaction for security purposes
     - To research: Ledger, Trezor, and other wallet's strategy to accurately track HD accounts
+    - Potential solution: Integrate directly with hierarchical deterministic (HD) accounts to pull read-only transaction data, e.g. Ledger and Trezor.
     - *See [What are Hierarchical Deterministic (HD) Wallets?](https://www.ledger.com/academy/crypto/what-are-hierarchical-deterministic-hd-wallets) by Ledger 2022-10-27*
 - Layer 2s
     - Lightning network
