@@ -1,7 +1,7 @@
 ---
 title: 📊 TurboTax
-tags: finance
-description: TurboTax open info
+tags: turbotax
+description: TurboTax open info (OI)
 image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 ---
 
@@ -90,9 +90,12 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 - All forms: *Tax Tools* (Left navigation menu) > *Print Center > Print, save or preview this year's return* > Select forms.
 - *See [How do I preview my TurboTax Online return before filing?](https://ttlc.intuit.com/turbotax-support/en-us/help-article/tax-return/preview-turbotax-online-return-filing/L77WCkvnu_US_en_US)*
 
-# Crypto
+# Cryptocurrency
 
-*See [open info](https://docs.google.com/document/d/1e03I6kGgzDaOksqqvCRrG7oIpEFVTZ8avtC5_a9XWzo/edit#heading=h.8jhet6s86aq6)*
+### About
+
+- [Crypto tax open info (OI)](https://docs.google.com/document/d/1e03I6kGgzDaOksqqvCRrG7oIpEFVTZ8avtC5_a9XWzo/edit#heading=h.8jhet6s86aq6)
+- [TurboTax Investor Center](https://hackmd.io/@openinfo/turboxtax-investorcenter)
 
 ## Add capital asset sales
 
