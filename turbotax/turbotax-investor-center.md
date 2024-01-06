@@ -29,7 +29,7 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 - E.g. [Importing Transaction Histories to CoinTracker Using CSVs](https://support.cointracker.io/hc/en-us/articles/4413071299729-Importing-Transaction-Histories-to-CoinTracker-Using-CSVs) *by CoinTracker*
 
 ## "Add a missing date, time, or amount" view (P0)
-- Show the full cryptocurrency address for each item.
+- Show the full cryptocurrency address and transaction hash for onchain items for each item.
 - It is very difficult to debug transactions without the account address information for each transaction.
 
 ## Upload errors with accounts still showing (P1)
