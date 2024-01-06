@@ -32,6 +32,10 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 - Show the full cryptocurrency address and transaction hash for onchain items for each item.
 - It is very difficult to debug transactions without the account address information for each transaction.
 
+## HIFO/Specific ID accounting/cost basis method (P0)
+
+- E.g. [What options do I have for calculating my capital gains?](https://support.cointracker.io/hc/en-us/articles/4413071356177) *by CoinTracker*
+
 ## Upload errors with accounts still showing (P1)
 - There's no way to see what transactions and/or tokens caused the error in order to resolve manually
 - [Ethereum and Bitcoin addresses, Coinbase and Gemini upload errors 2024-01-04](https://drive.proton.me/urls/D1WTDJEZY0#R1HY6HzMnj8x)
