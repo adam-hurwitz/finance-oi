@@ -197,12 +197,4 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 - TaxBit: [Open info](https://docs.google.com/document/u/0/d/1B7bKyvEQ1KFT-yOzHgS8nzMcIg1Ec5BNpaToDR2OTVg/edit)
 - etc.
 
-# Related topics
-
-- [Cryptocurrency Tax Software](https://www.nerdwallet.com/article/investing/crypto-tax-software) *by NerdWallet 2022-03-01*
-- [Crypto Portfolio Trackers Can Help You Avoid Tax Trouble…](https://time.com/nextadvisor/investing/cryptocurrency/what-are-crypto-portfolio-trackers/) *by NextAdvisor 2022-03-16*
-- [Crypto Tax Software](https://www.cnet.com/personal-finance/taxes/crypto-tax-software-manage-bitcoin-and-other-digital-currencies/) *by CNet 2022-03-16*
-- [Best Crypto Tax Software](https://www.coinbureau.com/services/crypto-tax-software) *by Coin Bureau 2020-02-08*
-- [Crypto Tax 2021: A Complete US Guide](https://www.coindesk.com/crypto-tax-2021-guide) > *Crypto tax services for U.S. citizens by CoinDesk 2021-04-06*
-
 <p style="text-align: center; font-style: italic">This is not financial, technical, or legal advice. Consult professionals and do your own research.</p>
