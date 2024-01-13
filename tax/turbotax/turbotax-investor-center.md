@@ -1,11 +1,11 @@
 ---
-title: 📊 TurboTax Investor Center
+title: TurboTax Investor Center
 tags: turbotax
 description: TurboTax Investor Center
 image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 ---
 
-<h1 style="text-align: center;">📊 TurboTax Investor Center</h1>
+<h1 style="text-align: center;">TurboTax Investor Center</h1>
 
 <p style="text-align: center; 
           font-style: italic;">
@@ -41,17 +41,14 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 - [Ethereum and Bitcoin addresses, Coinbase and Gemini upload errors 2024-01-04](https://drive.proton.me/urls/D1WTDJEZY0#R1HY6HzMnj8x)
 - Transactions potentially show after the error messages displays
 
-## Bulk add addresses (P1)
-- Add a list of addresses in the "Add an account" view
-- Adding dozens of addresses takes a long time
-
 ## Sources to add
+
 ### Networks (P1)
-- Solana
-- Gnosis Chain
-- Arweave
-- Dash
-- Stellar
+- Solana SOL
+- Gnosis Chain xDAI
+- Arweave AR
+- Dash DASH
+- Stellar XLM
 
 ### Centralized exchanges CEXs (P2)
 - Ledn
@@ -60,6 +57,12 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
     - Bitfinex
     - FTX US
     - Voyager
+
+## Onboarding
+
+### Bulk add addresses (P2)
+- Add a list of addresses in the "Add an account" view
+- Adding dozens of addresses takes a long time
 
 # Troubleshooting
 - Unable to sign in on Firefox browser v121.0
