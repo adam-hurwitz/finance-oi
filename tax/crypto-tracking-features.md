@@ -192,9 +192,6 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 
 # Products
 
-- Crypto tax software: [Open info](https://docs.google.com/spreadsheets/d/1qAman-MLsDcNRfNIsO6dFsITWoFdZN9fLObmT0hqvM4/edit#gid=0)
-- CoinTracker: [Open info](https://docs.google.com/document/u/0/d/1D_OK9TE_kJRHRp7Svfm8a9bhUZICs-9rOrbczo2AwGM/edit)
-- TaxBit: [Open info](https://docs.google.com/document/u/0/d/1B7bKyvEQ1KFT-yOzHgS8nzMcIg1Ec5BNpaToDR2OTVg/edit)
-- etc.
+[Crypto tax software open info (OI)](https://docs.google.com/spreadsheets/d/1qAman-MLsDcNRfNIsO6dFsITWoFdZN9fLObmT0hqvM4/edit#gid=0)
 
-<p style="text-align: center; font-style: italic">This is not financial, technical, or legal advice. Consult professionals and do your own research.</p>
+<p style="text-align: center; font-style: italic">This is not financial, legal, or technical advice. Do your own research and consult professionals.</p>

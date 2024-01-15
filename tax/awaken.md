@@ -12,12 +12,12 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
     <a href="https://awaken.tax" target="_blank">awaken.tax</a>
 </p>
 
-# Features
+# Tools
 
-- Option to autoload all EVM accounts from an address when adding an Ethereum externally owned account (EOA)
+- Prioritizes transactions to review based on highest gain/loss impact
 - Autoformat CSVs: [csv.awaken.tax](https://csv.awaken.tax)
     - [Awaken CSV format](https://accrue.notion.site/How-to-Format-Your-CSV-for-Awaken-Tax-a7c06a4a90e44ff190c5ff9601ffd751)
-- Prioritizes transactions to review based on highest gain/loss impact
+- Option to autoload all EVM accounts from an address when adding an Ethereum externally owned account (EOA)
 
 # Opportunities
 
