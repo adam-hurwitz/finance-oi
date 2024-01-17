@@ -27,12 +27,21 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 - [Allow the option to "freeze" or lock transactions by tax year.](https://cointracker.canny.io/features/p/allow-the-option-to-freeze-or-lock-transactions-by-tax-year) *on CoinTracker Feature Requests*
 - [r/Cointracker post](https://www.reddit.com/r/Cointracker/comments/192ot15/does_cointracker_plan_to_build_this_for_2024/)
 
+### Link missing outflow/inflow transactions (P1)
+- Link a missing outflow/inflow transaction (txn) to it's matching inflow/outflow txn when both txns exist in CoinTracker and are not showing as "connected"
+    - The txns not being "connected" results in an correct gain/loss
+    - Less steps for the user to select both txns and link compared to using a workaround
+    - Less risk of errors since it doesn't require ignoring correct txns
+- Workaround
+    - Edit the outflow/inflow txn to add the matching side of the txn with the source account
+    - Ignore the original (now duplicated) txn
+
 ### Filters
 See [filters](https://hackmd.io/@openinfo/cointracker/https%3A%2F%2Fhackmd.io%2F%40openinfo%2Fcointracker-about#Opportunities)
 
-### Import and export across providers (P2)
+### Universal import and export data across providers (P2)
 - Importing/exporting accurate data across most software providers is not easy to do
-- Import and export tax lot data
+- Import and export tax lot data in a widely accepted format
 
 ## Integrations
 

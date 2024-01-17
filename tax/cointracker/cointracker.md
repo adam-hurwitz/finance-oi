@@ -60,6 +60,15 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 - "Outgoing" and "Incoming" columns
 - Some platforms only show 1 column for inflows/outflows which makes it hard to visualize the movement of assets across linked accounts
 
+## Automatic tax calculations
+- Tax calculations run after making changes to a transaction automatically
+- E.g. Adding a missing inflow for a transfer to match an incomplete outflow
+    - This can resolve large inaccurate reported gains
+
+## Backup transaction data
+- Download tax lot information to use on other platforms without connecting all past sources and fixing issues
+- Part of the "Ultra" [2023 plan](https://www.cointracker.io/subscription)
+
 ## Tax loss harvesting
 - Part of the "Prime" and above [2023 plans](https://www.cointracker.io/subscription)
 - Resources
@@ -117,6 +126,7 @@ Graph with the change in portfolio value over time
         - BlockFi
         - FTX US
         - Voyager
+        - etc.
 
 ## TurboTax
 Generate CSV file(s) to upload
