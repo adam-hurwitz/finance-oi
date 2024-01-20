@@ -46,14 +46,22 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 
 ### Opportunities
 
-- Sort by the highest gain/loss amounts ([P1](https://hackmd.io/@openinfo/cointracker/https%3A%2F%2Fhackmd.io%2F%40openinfo%2Fcointracker-opportunities#Prioritization-key))
-    - Helps prioritizes fixing transactions with the largest impact
-- Network ([P2](https://hackmd.io/@openinfo/cointracker/https%3A%2F%2Fhackmd.io%2F%40openinfo%2Fcointracker-opportunities#Prioritization-key))
-    - Assets like ERC-20 tokens can be transacted on multiple networks 
-    - E.g., Ethereum, Gnosis Chain, Arbitrum, and etc.
-- Apps ([P2](https://hackmd.io/@openinfo/cointracker/https%3A%2F%2Fhackmd.io%2F%40openinfo%2Fcointracker-opportunities#Prioritization-key))
-    - Based on smart contract applications
-    - E.g., Safe, CowSwap, Uniswap, and etc.
+#### Filter by excluding 1 item in a filter type ([P0](https://hackmd.io/@openinfo/cointracker/https%3A%2F%2Fhackmd.io%2F%40openinfo%2Fcointracker-opportunities#Prioritization-key))
+- Filter type selects all sub-items by default
+- The user can deselect items to narrow down the results
+- This is important to narrow down to the relevant transaction view when there are many accounts, e.g. dozens, and/or transactions, e.g. 10s of thousands
+- [Screenshot](https://drive.proton.me/urls/R8KHDKT7AG#iIRO31H64s5F)
+
+#### Sort by the highest gain/loss amounts ([P1](https://hackmd.io/@openinfo/cointracker/https%3A%2F%2Fhackmd.io%2F%40openinfo%2Fcointracker-opportunities#Prioritization-key))
+- Helps prioritizes fixing transactions with the largest impact
+
+#### Network filter ([P2](https://hackmd.io/@openinfo/cointracker/https%3A%2F%2Fhackmd.io%2F%40openinfo%2Fcointracker-opportunities#Prioritization-key))
+- Assets like ERC-20 tokens can be transacted on multiple networks 
+- E.g., Ethereum, Gnosis Chain, Arbitrum, and etc.
+
+#### Apps filter ([P2](https://hackmd.io/@openinfo/cointracker/https%3A%2F%2Fhackmd.io%2F%40openinfo%2Fcointracker-opportunities#Prioritization-key))
+- Based on smart contract applications
+- E.g., Safe, CowSwap, Uniswap, and etc.
 
 ## Transaction view
 - Understand the movement of assets across linked accounts
@@ -117,6 +125,8 @@ Graph with the change in portfolio value over time
 - Enable: "Wallets" view > "Add wallet" > "Ethereum" > Select "Add all other EVM wallets with this address"
 
 ## CSV uploads
+
+### About
 - Autoconvert format from CSV uploads
     - E.g. Coinbase Pro
 - Manually convert format from CSV uploads
@@ -127,6 +137,11 @@ Graph with the change in portfolio value over time
         - FTX US
         - Voyager
         - etc.
+
+### Opportunities
+
+#### Add "Notes" column (P2)
+- Useful to add context, transaction hash, and/or exchange's transaction ID
 
 ## TurboTax
 Generate CSV file(s) to upload
