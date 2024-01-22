@@ -76,7 +76,8 @@ High usage with developers for app storage
 ### Centralized exchanges CEXs
 
 #### Ledn API (P1)
-The only centralized exchange lending provider in North America to survive the liquidation events of 2022
+- The only centralized exchange lending provider in North America to survive the liquidation events of 2022
+- CSV exports contain duplicate internal transfer transactions that can be removed with a direct API integration
 
 ### Staking protocols
 
