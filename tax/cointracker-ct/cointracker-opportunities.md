@@ -44,6 +44,14 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
     - Edit the outflow/inflow txn to add the matching side of the txn with the source account
     - Ignore the original (now duplicated) txn
 
+#### Edit transaction view timestamps (P1)
+- Expect: Edit the timestamps for transactions (txns) sourced from networks and APIs directly
+- Observe: Only txn timestamps sourced from CSV uploads and manual additions can be edited
+- About: Accounts, wallets, and exchanges often have different definitions of txn network finalization
+    - Timestamps can be different for the same transfer txn
+    - This creates missing inflow/outflow issues
+- Workaround: Manually add a new txn resolving the timestamp discrepancy betweens sources and ignore the txn(s) from the network/API.
+
 ### Filters
 See [filters](https://hackmd.io/@openinfo/cointracker/https%3A%2F%2Fhackmd.io%2F%40openinfo%2Fcointracker-about#Opportunities)
 
