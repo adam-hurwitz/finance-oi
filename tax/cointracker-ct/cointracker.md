@@ -46,7 +46,7 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 
 ### Opportunities
 
-#### Filter by excluding 1 item in a filter type ([P0](https://hackmd.io/@openinfo/cointracker/https%3A%2F%2Fhackmd.io%2F%40openinfo%2Fcointracker-opportunities#Prioritization-key))
+#### Filter by excluding 1 item in a filter type ([P0](https://hackmd.io/@openinfo/cointracker/https%3A%2F%2Fhackmd.io%2F%40openinfo%2Fcointracker-opportunities#Prioritization-key) | Ticket 189447)
 - Expect
     - Filter type selects all sub-filter items by default
     - The user can deselect items to narrow down the results

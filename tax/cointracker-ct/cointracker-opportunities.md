@@ -92,6 +92,18 @@ High usage with developers for app storage
 #### Chainlink staking (P2)
 Track Chainlink (LINK) staking deposits, withdrawals, and rewards
 
+### Transaction types
+
+#### Multiple in multiple out (MIMO) (P1 | Ticket 190737)
+- About: Important for organizations and advanced users to batch transactions (txns)
+- Expect: Track transfer txns with multiple inputs and multiple outputs as Transfers
+- Observe
+    - Transfer txns with multiple inputs and multiple outputs are tracked as Trades
+    - [Screenshot](https://drive.proton.me/urls/J4C7AYXM0W#5AsGRgSc9QCs)
+- Workaround
+    - Manually add individual separate Transfer txns for each asset
+    - Ignore the original MIMO txn
+
 ### Lending tokens
 
 #### Aave (P2)
