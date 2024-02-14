@@ -75,6 +75,11 @@ See [CSV uploads](https://hackmd.io/@openinfo/cointracker/https%3A%2F%2Fhackmd.i
 
 ### Networks
 
+#### Bitcoin (P0)
+- Some Bitcoin Taproot transactions (txns) aren't fully tracked
+- Inflow: 1 large inflow and 1 smaller inflow from separate addresses
+- Workaround: Edit untracked outflow to Transfer
+
 #### Gnosis Chain DAI (P1)
 High usage for payments
 
