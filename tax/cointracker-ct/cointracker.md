@@ -44,16 +44,12 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 - "Status"
     - E.g. "Needs review"
 
-### Opportunities
-
-#### Filter by excluding 1 item in a filter type ([P0](https://hackmd.io/@openinfo/cointracker/https%3A%2F%2Fhackmd.io%2F%40openinfo%2Fcointracker-opportunities#Prioritization-key) | Ticket 189447)
-- Expect
-    - Filter type selects all sub-filter items by default
-    - The user can deselect items to narrow down the results
-- Observe
-    - Empty transaction view results
-    - [Screenshot](https://drive.proton.me/urls/SJD7ZDJJZG#rsrcF3EDhVMW)
+### Filter by excluding an item(s) in a filter type 
 - About: This is important to narrow down to the relevant transaction view when there are many accounts, e.g. dozens, and/or transactions, e.g. 10s of thousands
+- A filter type selects all sub-filter items by default
+- You can deselect items to narrow down the results
+
+### Opportunities
 
 #### Sort by the highest gain/loss amounts ([P1](https://hackmd.io/@openinfo/cointracker/https%3A%2F%2Fhackmd.io%2F%40openinfo%2Fcointracker-opportunities#Prioritization-key))
 - Helps prioritizes fixing transactions with the largest impact
