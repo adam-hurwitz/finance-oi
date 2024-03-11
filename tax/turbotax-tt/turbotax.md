@@ -13,18 +13,32 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 </p>
 
 # Desktop app
+*[Buy](https://turbotax.intuit.com/personal-taxes/cd-download)*
 
-## About
+## Advantages
 
 - Stays signed in to the tax return
     - Does not sign out of the app compared to the web app which signs out after inactivity
-- Can save multiple versions with *.tax* files
+- Can save multiple working versions of your return with *.tax* files
 
-## Open a working version of a tax return on the desktop app
+## Save versions
 
-- Web app: *Tax Tools* (Left navigation menu) > *Tools > Save your YYYY return to your computer*
+#### About
+
+- Open a working version of a tax return on the desktop app
+- Save a file for the year once completed to start off with for next year
+
+#### Save
+
+- Web app
+    - *Tax Tools* (Left navigation menu) > *Tools > Save your YYYY return to your computer*
+    - *Tax Home* > *Your tax returns & documents* > *Download .tax file*
 - Desktop app: Top computer navigation menu > *File > Open Tax Return...* > Select file *taxReturn.taxYYYY*
     - [How do I open my tax return in the TurboTax software I installed?](https://ttlc.intuit.com/turbotax-support/en-us/help-article/tax-return/open-tax-return-turbotax-software-installed/L8E9pED5w_US_en_US)
+
+## Opportunities
+
+- Desktop app for Linux
 
 # Related topics
 
@@ -136,10 +150,15 @@ Useful when the payment processing fees are lower through the government than th
 
 # Troubleshoot
 
+## Virtual private networks (VPNs)
+
+- Some features may not work with the VPN turned on
+- Try temporarily turning the VPN off
+
 ## Sign in flow repeating
 
-- Change VPN source.
-- Disable VPN.
+- Change VPN source
+- Disable VPN
 
 ## Amended federal return rejected
 
@@ -171,4 +190,4 @@ Useful when the payment processing fees are lower through the government than th
 - Other
     - Reddit: [r/taxpros](https://www.reddit.com/r/taxpros/)
 
-<p style="text-align: center; font-style: italic">This is not financial, technical, or legal advice. Consult professionals and do your own research.</p>
+<p style="text-align: center; font-style: italic">This is not legal, financial, or technical advice. Do your own research.</p>
