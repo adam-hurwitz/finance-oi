@@ -22,4 +22,4 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
     - [@cointracker_cs](https://twitter.com/cointracker_cs)
 - [Trustpilot](https://www.trustpilot.com/review/cointracker.io)
 
-<p style="text-align: center; font-style: italic">This is not financial, technical, or legal advice. Do your own research and consult professionals.</p>
+<p style="text-align: center; font-style: italic">This is not financial, technical, or legal advice. Do your own research.</p>

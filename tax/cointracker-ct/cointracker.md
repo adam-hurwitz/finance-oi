@@ -143,7 +143,8 @@ Graph with the change in portfolio value over time
 - Useful to add context, transaction hash, and/or exchange's transaction ID
 
 ## TurboTax
-Generate CSV file(s) to upload
+- Generate CSV file(s) to upload
+- [Using CoinTracker and TurboTax: Step-by-Step Guide to entering your Taxable Income](https://support.cointracker.io/hc/en-us/articles/22337990007441-Using-CoinTracker-and-TurboTax-Step-by-Step-Guide-to-entering-your-Taxable-Income)
 
 ## Decentralized finance DeFi
 [Decentralized Finance (DeFi) Guide](https://support.cointracker.io/hc/en-us/articles/4413079083153)
@@ -180,4 +181,4 @@ Generate CSV file(s) to upload
 ### Resources
 - [CoinTracker Raises $100M as Crypto Tax Season Heats Up](https://www.coindesk.com/business/2022/01/27/cointracker-raises-100m-as-crypto-tax-season-heats-up/) *by CoinDesk*
 
-<p style="text-align: center; font-style: italic">This is not financial, technical, or legal advice. Do your own research and consult professionals.</p>
+<p style="text-align: center; font-style: italic">This is not financial, technical, or legal advice. Do your own research.</p>

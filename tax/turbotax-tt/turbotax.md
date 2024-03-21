@@ -89,7 +89,7 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 - If declining, you do not need to sign the form.
 - Resources
     - [What does this mean? "Limit offers you receive to only what you need"](https://www.reddit.com/r/TurboTax/comments/tp9we6/what_does_this_mean_limit_offers_you_receive_to/) *on r/TurboTax 2022-03-26*
-    - [I have a question Don't understand the consent. Do we need to sign it to file or what?](https://ttlc.intuit.com/community/taxes/discussion/i-have-a-question-don-t-understand-the-consent-do-we-need-to-sign-it-to-file-or-what/00/147734) *on TurboTax Community 2019-06-01*
+    - [I have a question Don't understand the consent. Do we need to sign it to file or what?](https://ttlc.intuit.com/community/taxes/discussion/i-have-a-question-don-t-understand-the-consent-do-we-need-to-sign-it-to-file-or-what/00/147734) *in TurboTax Community*
     - [You agreed to what? Tax sites want your data for more than filing.](https://www.washingtonpost.com/technology/2022/04/12/tax-prep-privacy/) *by The Washington Post 2022-04-12*
 
 ## Discounts
@@ -109,7 +109,8 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 ### About
 
 - [Crypto tax open info (OI)](https://docs.google.com/document/d/1e03I6kGgzDaOksqqvCRrG7oIpEFVTZ8avtC5_a9XWzo/edit#heading=h.8jhet6s86aq6)
-- [TurboTax Investor Center](https://hackmd.io/@openinfo/turboxtax-investorcenter)
+- [TurboTax Investor Center open info (OI)](https://hackmd.io/@openinfo/turboxtax-investorcenter)
+- [How do I enter my crypto in TurboTax?](https://ttlc.intuit.com/turbotax-support/en-us/help-article/cryptocurrency/import-cryptocurrency-transactions-turbotax/L8OPxrOa7_US_en_US) *in TurboTax Community*
 
 ## Add capital asset sales
 
@@ -122,7 +123,7 @@ image: https://pbs.twimg.com/profile_banners/3540691454/1535710532/1500x500
 ## Add income
 
 - Report crypto income as one line item: *Federal > Wages & Income > Less Common Income > Show more > Miscellaneous Income, 1099-A, 1099-C > Other reportable income* > Enter the description "Cryptocurrency" and the USD amount.
-- *See [TurboTax - How to Add Crypto Income](https://help.taxbit.com/hc/en-us/articles/1500004076042-TurboTax-How-to-add-crypto-income) by TaxBit*
+- *See [CoinTracker open info (OI)](https://hackmd.io/@openinfo/cointracker/https%3A%2F%2Fhackmd.io%2F%40openinfo%2Fcointracker-about#TurboTax)*
 
 # Payments
 

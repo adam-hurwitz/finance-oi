@@ -146,4 +146,4 @@ Auto track earned interest income while holding tokens (e.g. AAVE)
 - Option to transfer the cost basis when depositing into and withdrawing from liquidity pools
 - Access setting: Select your profile username (Top-right menubar) > "Settings" > "Tax" tab > "Treat liquidity pool transactions as non-taxable"
 
-<p style="text-align: center; font-style: italic">This is not financial, technical, or legal advice. Do your own research and consult professionals.</p>
+<p style="text-align: center; font-style: italic">This is not financial, technical, or legal advice. Do your own research.</p>
